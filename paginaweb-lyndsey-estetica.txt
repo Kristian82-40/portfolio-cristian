@@ -1,0 +1,10 @@
+Proyecto: Página Web Lyndsey Estética
+
+Archivos incluidos:
+- 01imgLyndsey.jpg
+- FOTOS2/ (carpeta de recursos e imágenes)
+
+Descripción:
+Sitio web desarrollado para el centro de estética Lyndsey. Incluye recursos gráficos y estructura de imágenes para una presentación visual profesional. Ideal como ejemplo de desarrollo web personalizado y branding visual para negocios de estética.
+
+Puedes solicitar una demo, el código fuente completo o una muestra visual del sitio.

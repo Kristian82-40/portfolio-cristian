@@ -1,0 +1,12 @@
+{
+  "name": "porfolio-analista-datos-fullstack",
+  "version": "1.0.0",
+  "description": "Portfolio Analista de Datos & Desarrollador Full-Stack",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --open=./index.html"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

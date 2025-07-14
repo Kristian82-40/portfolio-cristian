@@ -1,0 +1,13 @@
+Proyecto: Dominando Excel - Transformación y Análisis de Datos con Tablas Relacionales
+
+Archivos incluidos:
+- B-Datos G.Pedidos.xlsx
+- ConsolidacionMultiple.xlsx
+- G. PedidosEmpresa.xlsx
+- Tablas Relacionadas Ejer.xlsx
+- Estructura de Relaciones Base de Datos G. Pedidos.docx
+
+Descripción:
+Este proyecto muestra cómo transformar y analizar datos usando tablas relacionadas en Excel. Incluye ejemplos de consolidación, estructura de relaciones, y ejercicios prácticos para dominar el análisis de datos relacional en hojas de cálculo. Ideal para quienes buscan llevar el análisis de datos en Excel a un nivel profesional.
+
+Puedes solicitar acceso a los archivos o una demo personalizada.

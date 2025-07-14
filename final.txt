@@ -1,0 +1,9 @@
+Proyecto: Análisis de Datos - Notebook final.ipynb
+
+Archivo incluido:
+- final.ipynb (Jupyter Notebook)
+
+Descripción:
+Notebook interactivo de análisis de datos desarrollado en Python, ideal para mostrar procesos de limpieza, visualización y modelado de datos. Incluye celdas de código, gráficos y resultados explicativos.
+
+Puedes solicitar el notebook original o una exportación en PDF/HTML para visualizarlo fuera de Jupyter.

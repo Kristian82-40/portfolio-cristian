@@ -1,0 +1,12 @@
+Proyecto: Gestión y Conexión de Bases de Datos con MYSQL (Node.js)
+
+Archivos incluidos:
+- mysql.js
+- package.json
+- package-lock.json
+- node_modules/ (dependencias)
+
+Descripción:
+Este proyecto muestra cómo conectar, consultar y gestionar bases de datos MySQL desde Node.js. Incluye ejemplos de conexión, consultas básicas y manejo de dependencias. Ideal para quienes buscan automatizar procesos y desarrollar aplicaciones backend con JavaScript y bases de datos relacionales.
+
+Puedes solicitar acceso al código fuente completo o una demo personalizada.
